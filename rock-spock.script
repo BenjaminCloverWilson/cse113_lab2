@@ -1,0 +1,187 @@
+Script started on 2021-09-08 14:25:32-06:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="188" LINES="11"]
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ gcc -g -Wall rock-spock.c -o rock-spock
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ ./rock-spock
+
+Welcome! This is game number: 1
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: T
+Invalid move! Please try again: R
+Player's play is ROCK
+Computer's play is LIZARD
+Player Wins!
+Rock crushes lizard
+
+Welcome! This is game number: 2
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: V
+Player's play is SPOCK
+Computer's play is PAPER
+Computer Wins!
+Paper disproves Spock
+
+Welcome! This is game number: 3
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: L
+Player's play is LIZARD
+Computer's play is PAPER
+Player Wins!
+Lizard eats paper
+
+Welcome! This is game number: 4
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: P
+Player's play is PAPER
+Computer's play is SCISSORS
+Computer Wins!
+Scissors cuts paper
+
+Welcome! This is game number: 5
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: L
+Player's play is LIZARD
+Computer's play is PAPER
+Player Wins!
+Lizard eats paper
+
+Welcome! This is game number: 6
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: R
+Player's play is ROCK
+Computer's play is PAPER
+Computer Wins!
+Paper covers rock
+
+Welcome! This is game number: 7
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: S
+Player's play is SCISSORS
+Computer's play is SPOCK
+Computer Wins!
+Spock smashes scissors
+
+Welcome! This is game number: 8
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: V
+Player's play is SPOCK
+Computer's play is PAPER
+Computer Wins!
+Paper disproves Spock
+
+Welcome! This is game number: 9
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: R
+Player's play is ROCK
+Computer's play is SCISSORS
+Player Wins!
+Rock crushes scissors
+
+Welcome! This is game number: 10
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: S
+Player's play is SCISSORS
+Computer's play is ROCK
+Computer Wins!
+Rock crushes scissors
+
+Welcome! This is game number: 11
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: L
+Player's play is LIZARD
+Computer's play is SCISSORS
+Computer Wins!
+Scissors decapitates lizard
+
+Welcome! This is game number: 12
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: V
+Player's play is SPOCK
+Computer's play is SPOCK
+It's a tie!
+
+Welcome! This is game number: 13
+Enter a move:
+R for ROCK
+P for PAPER
+S for SCISSORS
+L for LIZARD
+V for SPOCK
+Q to have SPOCK eat a ROCK while chasing a LIZARD and quit
+Move: Q
+Thanks for playing, but Spock died eating a ROCK. Goodbye :)
+
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ ec[Kxit
+exit
+
+Script done on 2021-09-08 14:27:12-06:00 [COMMAND_EXIT_CODE="0"]

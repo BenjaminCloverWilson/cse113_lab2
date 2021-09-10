@@ -1,0 +1,143 @@
+Script started on 2021-09-09 20:45:35-06:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="203" LINES="55"]
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ gcc -g -Wall lab2.c -o lab2 -lm
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ ./lab2
+Welcome to Benjamin Wilson's Geometry Calculator (Version 2.0)!
+
+
+----------New Calculation----------
+
+Please select a SHAPE for geometry calculation:
+R: Rectangle
+C: Cirlce
+T: Right Triangles
+P: Regular Polygons
+
+Please enter your choice (R, C, T, P): C
+
+Please select a TYPE of calculation:
+A: Area of a circle
+C: Circumference of a cricle
+
+Please enter your choice: a
+
+Enter the value of the radius as a floating point: 2
+The area of the circle with radius2.000000 is: 12.566372
+
+
+Completed calculation. Terminating program. Have a lovely day :)
+
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ ./lb[Kab2
+Welcome to Benjamin Wilson's Geometry Calculator (Version 2.0)!
+
+
+----------New Calculation----------
+
+Please select a SHAPE for geometry calculation:
+R: Rectangle
+C: Cirlce
+T: Right Triangles
+P: Regular Polygons
+
+Please enter your choice (R, C, T, P): c
+
+Please select a TYPE of calculation:
+A: Area of a circle
+C: Circumference of a cricle
+
+Please enter your choice: A
+
+Enter the value of the radius as a floating point: -2
+Error: Geometric values can not be negative!  Terminating program, goodbye.
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ ./lab2
+Welcome to Benjamin Wilson's Geometry Calculator (Version 2.0)!
+
+
+----------New Calculation----------
+
+Please select a SHAPE for geometry calculation:
+R: Rectangle
+C: Cirlce
+T: Right Triangles
+P: Regular Polygons
+
+Please enter your choice (R, C, T, P): p
+
+Please select a TYPE of calculation:
+A: Area of a regular polygon
+X: Exterior angle of a regular polygon
+N: Interior angle of a regular polygon
+S: Sum of the interior angle of a regular polygon
+
+Please enter your choice: S
+Enter the integer number of sides in the Regular Polygon: 98
+The sum of the interior angles of a regular polygon with 98 sides is: 17280.000000
+
+
+Completed calculation. Terminating program. Have a lovely day :)
+
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ ./lab2
+Welcome to Benjamin Wilson's Geometry Calculator (Version 2.0)!
+
+
+----------New Calculation----------
+
+Please select a SHAPE for geometry calculation:
+R: Rectangle
+C: Cirlce
+T: Right Triangles
+P: Regular Polygons
+
+Please enter your choice (R, C, T, P): r f
+Error: invalid input! Terminating program, goodbye.
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ ./lab2
+Welcome to Benjamin Wilson's Geometry Calculator (Version 2.0)!
+
+
+----------New Calculation----------
+
+Please select a SHAPE for geometry calculation:
+R: Rectangle
+C: Cirlce
+T: Right Triangles
+P: Regular Polygons
+
+Please enter your choice (R, C, T, P): T
+
+Please select a TYPE of calculation:
+A: Area of a triangle
+H: Hypotenuse of a triangle
+P: Perimeter of a triangle
+
+Please enter your choice: h
+Enter the value of the base as a floating point: -9
+Error: Geometric values can not be negative! Terminating program, goodbye.
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ ./lab2
+Welcome to Benjamin Wilson's Geometry Calculator (Version 2.0)!
+
+
+----------New Calculation----------
+
+Please select a SHAPE for geometry calculation:
+R: Rectangle
+C: Cirlce
+T: Right Triangles
+P: Regular Polygons
+
+Please enter your choice (R, C, T, P): C
+
+Please select a TYPE of calculation:
+A: Area of a circle
+C: Circumference of a cricle
+
+Please enter your choice: c
+
+Enter the value of the radius as a floating point: 5
+The circumference of the circle with radius 5.000000 is: 31.415930
+
+
+Completed calculation. Terminating program. Have a lovely day :)
+
+]0;ben@Clover-VirtualBox: ~/cse113/lab2[01;32mben@Clover-VirtualBox[00m:[01;34m~/cse113/lab2[00m$ exit
+exit
+
+Script done on 2021-09-09 20:47:53-06:00 [COMMAND_EXIT_CODE="0"]
