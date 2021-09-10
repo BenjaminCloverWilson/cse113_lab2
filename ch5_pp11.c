@@ -15,7 +15,7 @@
  * 
  * @bug None yet
  * 
- * @todo Input
+ * @todo None
  */
 
 #include <stdio.h>
